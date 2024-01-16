@@ -26,8 +26,8 @@ In the initial data preparation stage i performed the following:
 ### Data Analysis
 pivot table was used for the analysis to answer business questions
 -[pivot table](https://github.com/OluwasegunRamson/Call-Center-Analysis/blob/main/call%20center%20analysis%201.PNG)
--[pivot table]([analysis2](https://github.com/OluwasegunRamson/Call-Center-Analysis/blob/main/call%20center%20analysis%202.PNG))
--[pivot table](analysis3)
+-[pivot table](https://github.com/OluwasegunRamson/Call-Center-Analysis/blob/main/call%20center%20analysis%202.PNG)
+-[pivot table](https://github.com/OluwasegunRamson/Call-Center-Analysis/blob/main/call%20center%20analysis%203.PNG)
 
 ###Results and Findings
 The analysis results are summarized as follows:
@@ -36,6 +36,8 @@ The analysis results are summarized as follows:
 3. Wyoming has the least number of calls
 4. Billing Question is the more reason why people call
 5. Major Response time is within SLA.
+Below is a concise dashboard to show highlight and answer the business questions
+   [Click here to view dashboard]()
 
 ###Recommendation
 
