@@ -40,7 +40,7 @@ Below is a concise dashboard to show highlight and answer the business questions
    [Click here to view dashboard](https://github.com/OluwasegunRamson/Call-Center-Analysis/blob/main/call%20center%20dashboard.PNG)
 
 ###Recommendation
-The organization should make a campaign to intimate customers on billing, this will reduce customers calling to ask questions about billing.
+Based on the analysis, The organization should focus on campaigns to intimate customers on billing, this will reduce customers calling to ask questions about billing.
 
  ###Limitation
   No limitaion according to the dataset as there were no duplicates and null value found
