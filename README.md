@@ -37,12 +37,13 @@ The analysis results are summarized as follows:
 4. Billing Question is the more reason why people call
 5. Major Response time is within SLA.
 Below is a concise dashboard to show highlight and answer the business questions
-   [Click here to view dashboard]()
+   [Click here to view dashboard](https://github.com/OluwasegunRamson/Call-Center-Analysis/blob/main/call%20center%20dashboard.PNG)
 
 ###Recommendation
+The organization should make a campaign to intimate customers on billing, this will reduce customers calling to ask questions about billing.
 
  ###Limitation
-  No limitaion according the dataset as there were no duplicates abd null value found
+  No limitaion according to the dataset as there were no duplicates and null value found
 
   ### Reference
   [Her Data Project](https://www.youtube.com/@herdataproject)
