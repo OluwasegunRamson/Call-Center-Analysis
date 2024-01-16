@@ -26,7 +26,7 @@ In the initial data preparation stage i performed the following:
 ### Data Analysis
 pivot table was used for the analysis to answer business questions
 -[pivot table](https://github.com/OluwasegunRamson/Call-Center-Analysis/blob/main/call%20center%20analysis%201.PNG)
--[pivot table](analysis2)
+-[pivot table]([analysis2](https://github.com/OluwasegunRamson/Call-Center-Analysis/blob/main/call%20center%20analysis%202.PNG))
 -[pivot table](analysis3)
 
 ###Results and Findings
